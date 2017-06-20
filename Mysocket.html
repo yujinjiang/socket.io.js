@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script src="js/socket.io.js" type="text/javascript">
+			
+		</script>
+		<script  type="text/javascript">
+			const socket = io.connect('http://localhost');
+			console.log(socket);
+			socket.on('connect',()=>{
+				
+			socket.on('socket connection',(mes)=>{
+				console.log(mes);
+			});
+			socket.emit('private message',{ddw:'dds'});
+				
+			});
+			
+			
+		</script>
+	</head>
+	<body>
+		
+	</body>
+</html>

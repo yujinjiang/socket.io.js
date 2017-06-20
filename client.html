@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>test io</title>
+    <script src="/socket.io.js">
+    </script>
+    <script>
+        const socket = io('http://localhost:8080');
+        socket.on('news', function(data) {
+            console.log(data);
+        });
+        socket.on('connect', function() {
+            socket.send('hi');
+        })
+    </script>
+</head>
+
+<body>
+    <div>
+        <img src="files/1.png" alt="123"> get data
+    </div>
+
+</body>
+
+</html>
