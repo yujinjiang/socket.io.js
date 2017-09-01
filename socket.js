@@ -1,4 +1,5 @@
 var io = require('socket.io')(80);
+var get = 'test';
 io.on('connection', (socket) => {
     console.log('ok connection ');
     console.log(socket.id);
