@@ -1,6 +1,5 @@
 var io = require('socket.io')(80);
-var get = 'dds';
-var gets ='bash';
+var gets ='bashs';
 io.on('connection', (socket) => {
     console.log('ok connection ');
     console.log(socket.id);
