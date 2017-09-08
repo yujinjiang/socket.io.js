@@ -1,7 +1,8 @@
 var io = require('socket.io')(80);
 function get() {
   [].prototype.forEach(()=>{
-   
+    askjhdkashdkashknc,mxzn
+    sa;ldkas;kd;lk
   })
 }
 io.on('connection', (socket) => {
