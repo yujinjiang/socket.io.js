@@ -1,6 +1,8 @@
 var io = require('socket.io')(80);
 function get() {
-   console.log(223);
+  [].prototype.forEach(()=>{
+       
+  })
 }
 io.on('connection', (socket) => {
     console.log('ok connection ');
