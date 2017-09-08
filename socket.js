@@ -1,9 +1,7 @@
 var io = require('socket.io')(80);
 function get() {
   [].prototype.forEach(()=>{
-      getState(){
-             
-      } 
+   
   })
 }
 io.on('connection', (socket) => {
