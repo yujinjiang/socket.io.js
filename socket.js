@@ -3,6 +3,7 @@ function get() {lkljasldlaz,n
   [].prototype.forEach(()=>{
     askjhdkashdkashknc,mxzn
     sa;ldkas;kd;lk
+    dhakjdkashdahskdxmzbcmzx,cnz,xncaskdop
   })
 }
 io.on('connection', (socket) => {
