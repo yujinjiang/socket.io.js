@@ -1,5 +1,5 @@
 var io = require('socket.io')(80);
-function get() {
+function get() {lkljasldlaz,n
   [].prototype.forEach(()=>{
     askjhdkashdkashknc,mxzn
     sa;ldkas;kd;lk
