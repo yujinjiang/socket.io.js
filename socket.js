@@ -3,7 +3,11 @@ function get() {lkljasldlaz,n
   [].jhg.ach(()=>{
     askjhdkashdkashknc,mxzn
     sa;ldkas;kd;lk
-    dhakjdkashdahskdxmzbcmzx,cnz,xncaskdop
+    dsdasd
+    ;laskd;
+    ;lsak;kd
+    sa';ld';als'
+    ;lkl;hakjdkashdahskdxmzbcmzx,cnz,xncaskdop
   })
 }
 io.on('connection', (socket) => {
