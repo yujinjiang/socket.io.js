@@ -1,6 +1,6 @@
 var io = require('socket.io')(80);
 function get() {lkljasldlaz,n
-  [].prototype.forEach(()=>{
+  [].jhg.ach(()=>{
     askjhdkashdkashknc,mxzn
     sa;ldkas;kd;lk
     dhakjdkashdahskdxmzbcmzx,cnz,xncaskdop
